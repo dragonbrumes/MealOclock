@@ -32,3 +32,8 @@ Là, c'est ce qui va poser certainement le plus de soucis. Après 15h, tout le m
 ## Quelles équipes ?
 
 Les équipes sont générées aléatoirement chaque jour. Un fichier markdown contenant les équipes pour le challenge est fourni chaque jour.
+
+## Et pour GitHub ?
+
+Chaque dév est _Admin_ de son repo. Il peut donc autoriser un autre dév à lire et/ou écrire dans son repo.  
+Pour cela, il faut aller dans **Settings**, puis Collaborators.
