@@ -1,7 +1,5 @@
 # PairProgramming
 
-https://fr.wikipedia.org/wiki/Programmation_en_bin%C3%B4me
-
 ## Concept
 
 https://fr.wikipedia.org/wiki/Programmation_en_bin%C3%B4me
