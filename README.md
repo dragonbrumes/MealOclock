@@ -4,7 +4,8 @@ Nous n'utiliserons qu'un seul et unique repo pour ce projet de 10 jours !
 
 ## Support de cours et challenge
 
-Dans le répertoire `docs/`, vous trouverez les consignes pour les ateliers/support de cours en journée, et pour les challenges en fin d'après-midi/soirée/nuit :wink:
+Dans le répertoire `docs/`, vous trouverez les documents que nous aurons produits sur le projet.  
+Dans le répertoire `docs/todo/`, vous trouverez les consignes pour les ateliers/support de cours en journée, et pour les challenges en fin d'après-midi/soirée/nuit :wink:
 
 ## Trello
 
