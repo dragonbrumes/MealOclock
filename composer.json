@@ -1,0 +1,19 @@
+{
+    "name": "stef/meal-oclock",
+    "description": "Site communautaire d'alimentation alternative",
+    "authors": [
+        {
+            "name": "Stephane aal",
+            "email": "dragonbrumes@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "symfony/var-dumper": "^3.4"
+    },
+    "autoload": {
+      "psr-4": {
+        "Mealoclock\\": "app/"  
+      }
+    }
+}
